@@ -12,6 +12,10 @@ Primeiramente rode no seu terminal o seguinte comando para clonar o repositório
 
 `git clone https://github.com/olin-med/PonderadaRosTurtlesim.git`
 
+Entre no diretório do projeto:
+
+`cd PonderadaRosTurtlesim`
+
 Em seguida, rode os dois comandos abaixo para buildar os pacotes e dar source no script de configuração do workspace:
 
 `colcon buld`
