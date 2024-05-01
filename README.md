@@ -1,4 +1,4 @@
-# TurtleBot Driver
+# Turtlebot circle drawing
 
 Este repositório contém um script Python que controla um TurtleBot para desenhar um círculo no ROS.
 
@@ -32,7 +32,10 @@ Pronto! Uma janela deve abrir na qual a tartaruga spawnará e desenhará o círc
 
 ## Vídeo do projeto em execução:
 
-[video]([https://www.youtube.com/watch?v=t684nMg7wh0](https://www.youtube.com/watch?v=ATgdTEat4w4))
+[video](https://www.youtube.com/watch?v=ATgdTEat4w4)
+
+Este código foi desenvolvido por Ólin Medeiros Costa.
+
 
 
 
