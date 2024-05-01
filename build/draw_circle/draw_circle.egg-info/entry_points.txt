@@ -1,0 +1,3 @@
+[console_scripts]
+draw = draw_circle.draw:main
+

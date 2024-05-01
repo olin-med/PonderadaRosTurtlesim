@@ -1,0 +1,36 @@
+[0.608s] Invoking command in '/home/olin/github/meu_workspace/draw_circle': PYTHONPATH=/home/olin/github/meu_workspace/build/draw_circle/prefix_override:/home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/draw_circle build --build-base /home/olin/github/meu_workspace/build/draw_circle/build install --record /home/olin/github/meu_workspace/build/draw_circle/install.log --single-version-externally-managed install_data
+[0.771s] running egg_info
+[0.772s] creating ../build/draw_circle/draw_circle.egg-info
+[0.772s] writing ../build/draw_circle/draw_circle.egg-info/PKG-INFO
+[0.772s] writing dependency_links to ../build/draw_circle/draw_circle.egg-info/dependency_links.txt
+[0.772s] writing entry points to ../build/draw_circle/draw_circle.egg-info/entry_points.txt
+[0.772s] writing requirements to ../build/draw_circle/draw_circle.egg-info/requires.txt
+[0.772s] writing top-level names to ../build/draw_circle/draw_circle.egg-info/top_level.txt
+[0.772s] writing manifest file '../build/draw_circle/draw_circle.egg-info/SOURCES.txt'
+[0.773s] reading manifest file '../build/draw_circle/draw_circle.egg-info/SOURCES.txt'
+[0.774s] writing manifest file '../build/draw_circle/draw_circle.egg-info/SOURCES.txt'
+[0.774s] running build
+[0.774s] running build_py
+[0.775s] creating /home/olin/github/meu_workspace/build/draw_circle/build
+[0.775s] creating /home/olin/github/meu_workspace/build/draw_circle/build/lib
+[0.775s] creating /home/olin/github/meu_workspace/build/draw_circle/build/lib/draw_circle
+[0.776s] copying draw_circle/draw.py -> /home/olin/github/meu_workspace/build/draw_circle/build/lib/draw_circle
+[0.776s] copying draw_circle/__init__.py -> /home/olin/github/meu_workspace/build/draw_circle/build/lib/draw_circle
+[0.776s] running install
+[0.776s] running install_lib
+[0.776s] creating /home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages/draw_circle
+[0.776s] copying /home/olin/github/meu_workspace/build/draw_circle/build/lib/draw_circle/draw.py -> /home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages/draw_circle
+[0.777s] copying /home/olin/github/meu_workspace/build/draw_circle/build/lib/draw_circle/__init__.py -> /home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages/draw_circle
+[0.777s] byte-compiling /home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages/draw_circle/draw.py to draw.cpython-310.pyc
+[0.778s] byte-compiling /home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages/draw_circle/__init__.py to __init__.cpython-310.pyc
+[0.778s] running install_data
+[0.779s] creating /home/olin/github/meu_workspace/install/draw_circle/share/ament_index
+[0.779s] creating /home/olin/github/meu_workspace/install/draw_circle/share/ament_index/resource_index
+[0.779s] creating /home/olin/github/meu_workspace/install/draw_circle/share/ament_index/resource_index/packages
+[0.779s] copying resource/draw_circle -> /home/olin/github/meu_workspace/install/draw_circle/share/ament_index/resource_index/packages
+[0.779s] copying package.xml -> /home/olin/github/meu_workspace/install/draw_circle/share/draw_circle
+[0.779s] running install_egg_info
+[0.781s] Copying ../build/draw_circle/draw_circle.egg-info to /home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages/draw_circle-0.0.0-py3.10.egg-info
+[0.782s] running install_scripts
+[0.793s] writing list of installed files to '/home/olin/github/meu_workspace/build/draw_circle/install.log'
+[0.813s] Invoked command in '/home/olin/github/meu_workspace/draw_circle' returned '0': PYTHONPATH=/home/olin/github/meu_workspace/build/draw_circle/prefix_override:/home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/draw_circle build --build-base /home/olin/github/meu_workspace/build/draw_circle/build install --record /home/olin/github/meu_workspace/build/draw_circle/install.log --single-version-externally-managed install_data

@@ -1,0 +1,24 @@
+[0.667s] Invoking command in '/home/olin/github/meu_workspace/src/draw_circle': PYTHONPATH=/home/olin/github/meu_workspace/build/draw_circle/prefix_override:/home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/draw_circle build --build-base /home/olin/github/meu_workspace/build/draw_circle/build install --record /home/olin/github/meu_workspace/build/draw_circle/install.log --single-version-externally-managed install_data
+[0.828s] running egg_info
+[0.828s] writing ../../build/draw_circle/draw_circle.egg-info/PKG-INFO
+[0.828s] writing dependency_links to ../../build/draw_circle/draw_circle.egg-info/dependency_links.txt
+[0.828s] writing entry points to ../../build/draw_circle/draw_circle.egg-info/entry_points.txt
+[0.828s] writing requirements to ../../build/draw_circle/draw_circle.egg-info/requires.txt
+[0.828s] writing top-level names to ../../build/draw_circle/draw_circle.egg-info/top_level.txt
+[0.830s] reading manifest file '../../build/draw_circle/draw_circle.egg-info/SOURCES.txt'
+[0.830s] writing manifest file '../../build/draw_circle/draw_circle.egg-info/SOURCES.txt'
+[0.830s] running build
+[0.830s] running build_py
+[0.830s] copying draw_circle/draw.py -> /home/olin/github/meu_workspace/build/draw_circle/build/lib/draw_circle
+[0.830s] running install
+[0.831s] running install_lib
+[0.831s] copying /home/olin/github/meu_workspace/build/draw_circle/build/lib/draw_circle/draw.py -> /home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages/draw_circle
+[0.832s] byte-compiling /home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages/draw_circle/draw.py to draw.cpython-310.pyc
+[0.832s] running install_data
+[0.832s] running install_egg_info
+[0.834s] removing '/home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages/draw_circle-0.0.0-py3.10.egg-info' (and everything under it)
+[0.834s] Copying ../../build/draw_circle/draw_circle.egg-info to /home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages/draw_circle-0.0.0-py3.10.egg-info
+[0.834s] running install_scripts
+[0.849s] Installing draw script to /home/olin/github/meu_workspace/install/draw_circle/lib/draw_circle
+[0.849s] writing list of installed files to '/home/olin/github/meu_workspace/build/draw_circle/install.log'
+[0.867s] Invoked command in '/home/olin/github/meu_workspace/src/draw_circle' returned '0': PYTHONPATH=/home/olin/github/meu_workspace/build/draw_circle/prefix_override:/home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/draw_circle build --build-base /home/olin/github/meu_workspace/build/draw_circle/build install --record /home/olin/github/meu_workspace/build/draw_circle/install.log --single-version-externally-managed install_data

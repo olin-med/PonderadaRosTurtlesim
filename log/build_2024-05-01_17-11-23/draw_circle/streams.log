@@ -1,0 +1,18 @@
+[0.617s] Invoking command in '/home/olin/github/meu_workspace/draw_circle': PYTHONPATH=/home/olin/github/meu_workspace/build/draw_circle/prefix_override:/home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/draw_circle build --build-base /home/olin/github/meu_workspace/build/draw_circle/build install --record /home/olin/github/meu_workspace/build/draw_circle/install.log --single-version-externally-managed install_data
+[0.794s] running egg_info
+[0.794s] creating ../build/draw_circle/ola_mundo.egg-info
+[0.794s] writing ../build/draw_circle/ola_mundo.egg-info/PKG-INFO
+[0.794s] writing dependency_links to ../build/draw_circle/ola_mundo.egg-info/dependency_links.txt
+[0.794s] writing entry points to ../build/draw_circle/ola_mundo.egg-info/entry_points.txt
+[0.795s] writing requirements to ../build/draw_circle/ola_mundo.egg-info/requires.txt
+[0.795s] writing top-level names to ../build/draw_circle/ola_mundo.egg-info/top_level.txt
+[0.795s] writing manifest file '../build/draw_circle/ola_mundo.egg-info/SOURCES.txt'
+[0.795s] reading manifest file '../build/draw_circle/ola_mundo.egg-info/SOURCES.txt'
+[0.796s] writing manifest file '../build/draw_circle/ola_mundo.egg-info/SOURCES.txt'
+[0.796s] running build
+[0.796s] running build_py
+[0.796s] running install
+[0.797s] running install_lib
+[0.797s] running install_data
+[0.798s] error: can't copy 'resource/ola_mundo': doesn't exist or not a regular file
+[0.814s] Invoked command in '/home/olin/github/meu_workspace/draw_circle' returned '1': PYTHONPATH=/home/olin/github/meu_workspace/build/draw_circle/prefix_override:/home/olin/github/meu_workspace/install/draw_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/draw_circle build --build-base /home/olin/github/meu_workspace/build/draw_circle/build install --record /home/olin/github/meu_workspace/build/draw_circle/install.log --single-version-externally-managed install_data

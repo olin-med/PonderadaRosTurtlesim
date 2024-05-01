@@ -1,0 +1,36 @@
+[0.477s] Invoking command in '/home/olin/github/meu_workspace/src/ola_mundo': PYTHONPATH=/home/olin/github/meu_workspace/build/ola_mundo/prefix_override:/home/olin/github/meu_workspace/install/ola_mundo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ola_mundo build --build-base /home/olin/github/meu_workspace/build/ola_mundo/build install --record /home/olin/github/meu_workspace/build/ola_mundo/install.log --single-version-externally-managed install_data
+[0.629s] running egg_info
+[0.629s] creating ../../build/ola_mundo/ola_mundo.egg-info
+[0.629s] writing ../../build/ola_mundo/ola_mundo.egg-info/PKG-INFO
+[0.629s] writing dependency_links to ../../build/ola_mundo/ola_mundo.egg-info/dependency_links.txt
+[0.629s] writing entry points to ../../build/ola_mundo/ola_mundo.egg-info/entry_points.txt
+[0.629s] writing requirements to ../../build/ola_mundo/ola_mundo.egg-info/requires.txt
+[0.629s] writing top-level names to ../../build/ola_mundo/ola_mundo.egg-info/top_level.txt
+[0.629s] writing manifest file '../../build/ola_mundo/ola_mundo.egg-info/SOURCES.txt'
+[0.630s] reading manifest file '../../build/ola_mundo/ola_mundo.egg-info/SOURCES.txt'
+[0.631s] writing manifest file '../../build/ola_mundo/ola_mundo.egg-info/SOURCES.txt'
+[0.631s] running build
+[0.631s] running build_py
+[0.631s] creating /home/olin/github/meu_workspace/build/ola_mundo/build
+[0.631s] creating /home/olin/github/meu_workspace/build/ola_mundo/build/lib
+[0.631s] creating /home/olin/github/meu_workspace/build/ola_mundo/build/lib/ola_mundo
+[0.631s] copying ola_mundo/__init__.py -> /home/olin/github/meu_workspace/build/ola_mundo/build/lib/ola_mundo
+[0.631s] copying ola_mundo/teste.py -> /home/olin/github/meu_workspace/build/ola_mundo/build/lib/ola_mundo
+[0.631s] running install
+[0.631s] running install_lib
+[0.632s] creating /home/olin/github/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo
+[0.632s] copying /home/olin/github/meu_workspace/build/ola_mundo/build/lib/ola_mundo/__init__.py -> /home/olin/github/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo
+[0.632s] copying /home/olin/github/meu_workspace/build/ola_mundo/build/lib/ola_mundo/teste.py -> /home/olin/github/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo
+[0.632s] byte-compiling /home/olin/github/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo/__init__.py to __init__.cpython-310.pyc
+[0.632s] byte-compiling /home/olin/github/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo/teste.py to teste.cpython-310.pyc
+[0.632s] running install_data
+[0.633s] creating /home/olin/github/meu_workspace/install/ola_mundo/share/ament_index
+[0.633s] creating /home/olin/github/meu_workspace/install/ola_mundo/share/ament_index/resource_index
+[0.633s] creating /home/olin/github/meu_workspace/install/ola_mundo/share/ament_index/resource_index/packages
+[0.633s] copying resource/ola_mundo -> /home/olin/github/meu_workspace/install/ola_mundo/share/ament_index/resource_index/packages
+[0.633s] copying package.xml -> /home/olin/github/meu_workspace/install/ola_mundo/share/ola_mundo
+[0.633s] running install_egg_info
+[0.634s] Copying ../../build/ola_mundo/ola_mundo.egg-info to /home/olin/github/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo-0.0.0-py3.10.egg-info
+[0.634s] running install_scripts
+[0.650s] writing list of installed files to '/home/olin/github/meu_workspace/build/ola_mundo/install.log'
+[0.668s] Invoked command in '/home/olin/github/meu_workspace/src/ola_mundo' returned '0': PYTHONPATH=/home/olin/github/meu_workspace/build/ola_mundo/prefix_override:/home/olin/github/meu_workspace/install/ola_mundo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ola_mundo build --build-base /home/olin/github/meu_workspace/build/ola_mundo/build install --record /home/olin/github/meu_workspace/build/ola_mundo/install.log --single-version-externally-managed install_data
